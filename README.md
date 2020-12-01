@@ -7,13 +7,13 @@
 ### Table of Contents
 
 
-- [Problem Description](#problem-description)
+- [Problem description](#problem-description)
 - [Solution approaches](#solution-approaches)
-- [Efficiency](#efficieny-of-the-solution)
+- [Efficiency of the solution](#efficiency-of-the-solution)
 
 ---
 
-## Problem Desription
+## Problem desription
 - To solve the number link puzzle game named Flow Free
 - Puzzle will contain a squared matrix or grid will completely or substantially colored cells
 - Connect the cells of the same color by drawing a path between them such that this path does not intersect with any other colored path, and there should not be any empty cells left after the entire connection
