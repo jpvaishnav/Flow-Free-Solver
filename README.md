@@ -71,11 +71,14 @@
 - The above discussed solution solves upto n=11 using feasible resources
 
 ## Comparison
-For 7*7 grid 
-| Technique | Nodes explored |
-| --- | --- |
-| Backtracking | 6597 |
-| Backtracking + Filtering | 90 |
-| Backtracking + Filtering + Ordering | 74 |
+
+| Grid size | Technique | Nodes explored | Time taken(Seconds) |
+|--- | --- | --- | --- |
+| 7| Backtracking | 6597 | 0 |
+| 7 | Backtracking + Filtering | 90 | 0 |
+| 7 | Backtracking + Filtering + Ordering | 74 | 0 |
+| 8 | Backtracking | 42823078 | 7 |
+| 8 | Backtracking + Filtering | 7252 | 2 |
+| 9 | Backtracking + Filtering + Ordering | 1017 | 5 |
 
 ---
