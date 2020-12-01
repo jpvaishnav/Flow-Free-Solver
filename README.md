@@ -7,9 +7,9 @@
 ### Table of Contents
 
 
-- [Problem description](#problem-description)
-- [Solution approaches](#solution-approaches)
-- [Efficiency of the solution](#efficiency-of-the-solution)
+- [Problem Description](#problem-description)
+- [Solution Approaches](#solution-approaches)
+- [Efficiency](#efficiency-of-the-solution)
 
 ---
 
